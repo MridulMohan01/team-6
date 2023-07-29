@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268000591952",
+    "project_id": "agrinfo-38cef",
+    "storage_bucket": "agrinfo-38cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268000591952:android:3ef5aa3cf81b7cdb411155",
+        "android_client_info": {
+          "package_name": "com.AGRINFO.Agrinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268000591952-qd97nr2sb81d11bh3q7dc4p5knq3n7td.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AGRINFO.Agrinfo",
+            "certificate_hash": "a11865daac4832323291b53db06d6f73d23490a5"
+          }
+        },
+        {
+          "client_id": "268000591952-tvrrlgqu4vjs63n0n77qk33tr6b9457v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCNo2hjYBcnK2_Zf13zHjETHlLZylELA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268000591952-tvrrlgqu4vjs63n0n77qk33tr6b9457v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
